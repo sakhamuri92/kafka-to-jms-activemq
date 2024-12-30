@@ -1,0 +1,15 @@
+[submodule "stock-service"]
+	path = stock-service
+	url = https://github.com/sakhamuri92/stock-service.git
+[submodule "email-service"]
+	path = email-service
+	url = https://github.com/sakhamuri92/email-service.git
+[submodule "kafka-to-activemq"]
+	path = kafka-to-activemq
+	url = https://github.com/sakhamuri92/kafka-to-activemq.git
+[submodule "orderservice"]
+	path = orderservice
+	url = https://github.com/sakhamuri92/orderservice.git
+[submodule "base-domains"]
+	path = base-domains
+	url = https://github.com/sakhamuri92/base-domains.git
